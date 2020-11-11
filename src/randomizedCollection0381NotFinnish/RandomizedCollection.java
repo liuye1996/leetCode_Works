@@ -1,4 +1,4 @@
-package RandomizedCollection0381NotFinnish;
+package randomizedCollection0381NotFinnish;
 
 import java.util.*;
 
