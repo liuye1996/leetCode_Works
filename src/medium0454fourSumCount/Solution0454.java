@@ -1,4 +1,4 @@
-package medium0454fourSumCount0454;
+package medium0454fourSumCount;
 
 import java.util.HashMap;
 import java.util.Map;
